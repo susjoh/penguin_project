@@ -10,7 +10,7 @@ library(tidyverse)   # if it doesn't exist, run install.packages("tidyverse").
 
 # Read in the data.
 
-penguins <- read_table("data/penguin_data.txt")
+penguins = read_table("data/penguin_data.txt")
 glimpse(penguins)
 
 # Run a linear regression.
