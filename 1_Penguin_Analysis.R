@@ -21,6 +21,9 @@ summary(model1)
 model1a <- lm(body_mass_g ~ flipper_length_mm + species, data = penguins)
 summary(model1a)
 
+model1b <- lm(body_mass_g ~ flipper_length_mm + species + island, data = penguins)
+summary(model1b)
+
 # Create a nice plot in ggplot2.
 
 ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g, colour = species)) +
