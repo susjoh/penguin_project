@@ -18,6 +18,9 @@ glimpse(penguins)
 model1 <- lm(body_mass_g ~ flipper_length_mm, data = penguins)
 summary(model1)
 
+model1a <- lm(body_mass_g ~ flipper_length_mm + species, data = penguins)
+summary(model1a)
+
 # Create a nice plot in ggplot2.
 
 ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g, colour = species)) +
