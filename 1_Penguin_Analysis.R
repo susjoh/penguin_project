@@ -25,6 +25,7 @@ model1b <- lm(body_mass_g ~ flipper_length_mm + species + island, data = penguin
 summary(model1b)
 
 # Oh I am just adding a wee comment here!
+# And another comment just for show.
 
 # Create a nice plot in ggplot2.
 
