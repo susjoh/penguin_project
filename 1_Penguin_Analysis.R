@@ -10,7 +10,7 @@ library(tidyverse)   # if it doesn't exist, run install.packages("tidyverse").
 
 # Read in the data.
 
-penguins = read.table("data/penguin_data.txt", header = T)
+penguins <- read.table("data/penguin_data.txt", header = T)
 
 glimpse(penguins)
 
