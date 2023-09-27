@@ -6,3 +6,4 @@ For more information on the Palmer penguin project, please see the link [here](h
 
 Any questions, please email [Susan.Johnston\@ed.ac.uk](mailto:Susan.Johnston@ed.ac.uk)
 
+I can use git
