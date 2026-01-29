@@ -1,0 +1,17 @@
+island	year	temp_average
+Biscoe	2007	-2.3
+Dream	2007	-1.2
+Torgersen	2007	-5.2
+Alexander	2007	-1.2
+Biscoe	2008	-1.2
+Dream	2008	-2.2
+Torgersen	2008	-4.4
+Alexander	2008	-3.3
+Biscoe	2009	-3.9
+Dream	2009	-1.6
+Torgersen	2009	-5.6
+Alexander	2009	-4.3
+Biscoe	2010	-3.6
+Dream	2010	-1.7
+Torgersen	2010	-5.5
+Alexander	2010	-2.8
